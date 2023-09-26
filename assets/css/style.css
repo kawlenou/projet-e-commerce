@@ -1,0 +1,17 @@
+:root{
+    box-sizing: inherit;
+    --black : #0f0f0f;
+    --white : #f8f8f8;
+    --gray : #c6c6c6;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: var(--white);
+}
+a, a:hover{
+    text-decoration: none;
+}
+ul, li {
+    list-style: none;
+}
